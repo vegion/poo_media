@@ -1,0 +1,24 @@
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\bin\Debug\arkanoid.exe
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\bin\Debug\arkanoid.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.Form2.resources
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.exe
+c:\users\usuario\documents\visual studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.Form3.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\arkanoid\arkanoid\obj\x86\Debug\arkanoid.Form4.resources
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\bin\Debug\arkanoid.exe.config
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\bin\Debug\arkanoid.exe
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\bin\Debug\arkanoid.pdb
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.csproj.AssemblyReference.cache
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.Form1.resources
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.Form2.resources
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.Form3.resources
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.Form4.resources
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.Properties.Resources.resources
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.csproj.GenerateResource.cache
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.csproj.CoreCompileInputs.cache
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.exe
+D:\descargas\proyectos\tarea9 arkanoid- Daniel Stiven Molina Herrera\tarea9 arkanoid- Daniel Stiven Molina Herrera\arkanoid\obj\x86\Debug\arkanoid.pdb
