@@ -1,0 +1,46 @@
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Ganar.resources
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.inicio.resources
+C:\Documents and Settings\Lis\mis documentos\visual studio 2010\Projects\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Juego.resources
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Ganar.resources
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.inicio.resources
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Juego.resources
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Documents and Settings\Lis\Mis documentos\Downloads\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Perder.resources
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.inicio.resources
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Juego.resources
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\lis\Downloads\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.instrucciones.resources
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.inicio.resources
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.instrucciones.resources
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Juego.resources
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.cache
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+D:\descargas\proyectos\Proyectov1\Proyectov1\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
