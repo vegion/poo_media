@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionarios</title>
+    <link rel="stylesheet" href="../css/estilos.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Info</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+       <h1 align="center">Cuestionario</h1>
+       <div class="info-juego"><section class="timer" id="timer"></section>       
+        <section class="score" id="score">Tu puntaje actual es: 0</section></div>
+       <article class="info">
+        <h2>Juego de preguntas sobre la historia del fútbol</h2>        
+    </article>    
+       <span class="question-container">
+        <p id="question">1. ¿Qué selección ha ganado más mundiales de fútbol?</p>
+        <img src="../imagenes/pregunta1.jpg" class="imagen">
+        <span class="answer" onclick="responder(1,this)" id="c01">Brasil</span>
+        <span class="answer" onclick="responder(1,this)" id="o01">Alemania</span>
+        <span class="answer" onclick="responder(1,this)" id="o02">Argentina</span>
+        <span class="answer" onclick="responder(1,this)" id="o03">Francia</span>
+       </span>
+       <span class="question-container">
+        <p id="question">2. ¿Cuántos jugadores tiene cada equipo de fútbol en el campo de juego durante un partido?</p>
+        <img src="../imagenes/pregunta2.jpg" class="imagen">
+        <span class="answer" onclick="responder(2,this)" id="o01">5 jugadores</span>
+        <span class="answer" onclick="responder(2,this)" id="o02">16 jugadores</span>
+        <span class="answer" onclick="responder(2,this)" id="o03">7 jugadores</span>
+        <span class="answer" onclick="responder(2,this)" id="c02">11 jugadores</span>
+       </span>
+       <span class="question-container">
+        <p id="question">3. ¿Quién es el máximo goleador de la historia del fútbol?</p>
+        <img src="../imagenes/pregunta3.jpg" class="imagen">
+        <span class="answer" onclick="responder(3,this)" id="o01">Lionel Messi</span>
+        <span class="answer" onclick="responder(3,this)" id="o02">Pelé</span>
+        <span class="answer" onclick="responder(3,this)" id="c03">Cristiano Ronaldo</span>
+        <span class="answer" onclick="responder(3,this)" id="o03">Zlatan Ibrahimovic</span>
+       </span>
+       <span class="question-container">
+        <p id="question">4. ¿Quién es el máximo ganador del balón de oro en la historia?</p>
+        <img src="../imagenes/pregunta4.webp" class="imagen">
+        <span class="answer" onclick="responder(4,this)" id="c04">Lionel Messi</span>
+        <span class="answer" onclick="responder(4,this)" id="o01">Johan Cruyff</span>
+        <span class="answer" onclick="responder(4,this)" id="o02">Cristiano Ronaldo</span>
+        <span class="answer" onclick="responder(4,this)" id="o03">Michel Platini</span>
+       </span>
+       <span class="question-container">
+        <p id="question">5. ¿Qué equipo ha ganado más Champions League en la historia?</p>
+        <img src="../imagenes/pregunta5.jfif" class="imagen">
+        <span class="answer" onclick="responder(5,this)" id="o01">Barcelona</span>
+        <span class="answer" onclick="responder(5,this)" id="c05">Real Madrid</span>
+        <span class="answer" onclick="responder(5,this)" id="o02">Liverpool</span>
+        <span class="answer" onclick="responder(5,this)" id="o03">AC Milán</span>
+       </span>
+       <span class="question-container">
+        <p id="question">6. ¿Qué selección de futbol llegó a tres finales de la Copa del Mundo pero nunca ganó el título?</p>
+        <img src="../imagenes/pregunta6.jpg" class="imagen">
+        <span class="answer" onclick="responder(6,this)" id="o01">España</span>
+        <span class="answer" onclick="responder(6,this)" id="o02">Portugal</span>
+        <span class="answer" onclick="responder(6,this)" id="o03">Uruguay</span>
+        <span class="answer" onclick="responder(6,this)" id="c06">Países Bajos</span>
+       </span>
+       <span class="question-container">
+        <p id="question">7. ¿Quién es el máximo goleador de la historia de los mundiales de fútbol?</p>
+        <img src="../imagenes/pregunta7.jpg" class="imagen">
+        <span class="answer" onclick="responder(7,this)" id="o01">Cristiano Ronaldo</span>
+        <span class="answer" onclick="responder(7,this)" id="o02">Lionel Messi</span>
+        <span class="answer" onclick="responder(7,this)" id="c07">Miroslav Klose</span>
+        <span class="answer" onclick="responder(7,this)" id="o03">Ronaldo Nazario</span>
+       </span>
+       <span class="question-container">
+        <p id="question">8. ¿Qué jugador ha ganado más mundiales de fútbol con su selección?</p>
+        <img src="../imagenes/pregunta8.webp" class="imagen">
+        <span class="answer" onclick="responder(8,this)" id="c08">Pelé</span>
+        <span class="answer" onclick="responder(8,this)" id="o01">Zinedine Zidane</span>
+        <span class="answer" onclick="responder(8,this)" id="o02">Giuseppe Meazza</span>
+        <span class="answer" onclick="responder(8,this)" id="o03">Diego Maradona</span>
+       </span>
+       <span class="question-container">
+        <p id="question">9. ¿Quién es el máximo goleador historico de la Champions League?</p>
+        <img src="../imagenes/pregunta9.jpeg" class="imagen">
+        <span class="answer" onclick="responder(9,this)" id="o01">Karim Benzema</span>
+        <span class="answer" onclick="responder(9,this)" id="c09">Cristiano Ronaldo</span>
+        <span class="answer" onclick="responder(9,this)" id="o02">Robert Lewandowski</span>
+        <span class="answer" onclick="responder(9,this)" id="o03">Lionel Messi</span>
+       </span>
+       <span class="question-container">
+        <p id="question">10. ¿Qué equipo sudamericano de fútbol tiene más Copas Libertadores en su palmarés?</p>
+        <img src="../imagenes/pregunta10.jpg" class="imagen">
+        <span class="answer" onclick="responder(10,this)" id="o01">River Plate</span>
+        <span class="answer" onclick="responder(10,this)" id="o02">Flamengo</span>
+        <span class="answer" onclick="responder(10,this)" id="o03">Boca Juniors</span>
+        <span class="answer" onclick="responder(10,this)" id="c10">Independiente</span>
+       </span>
+       <div class="fin"><button type="button" class="button" data-text="Awesome" onclick="finalizar()"><span class="actual-text">&nbsp;Finalizar&nbsp;</span>
+        <span aria-hidden="true" class="hover-text">&nbsp;Finalizar&nbsp;</span>
+    </button></div>
+    </div>    
+    <footer>        
+        <p>&copy; 2024 Censa. Todos los derechos reservados</p>
+    </footer>
+    <script src="../js/ejecutar.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio de Sesión o Login</title> 
+    <link rel="stylesheet" href="../css/estilo-login.css"/>
+</head>
+<body>
+    <div class="login-container">
+        <h2 align="center">Inicio de Sesión</h2>
+        <form id="loginForm">  
+            <label for="username">Usuario:</label> 
+            <input type="text" id="username" name="username" required> 
+            
+            <label for="password">Contraseña:</label> 
+            <input type="password" id="password" name="password" required> 
+            
+            <button type="submit" class="button" data-text="Awesome"><span class="actual-text">&nbsp;Ingresar&nbsp;</span>
+                <span aria-hidden="true" class="hover-text">&nbsp;Ingresar&nbsp;</span>
+            </button> 
+            <div class="error-message" id="errorMessage"></div> 
+        </form> 
+    </div> 
+    <footer>
+        <p>&copy; 2024 Censa. Todos los derechos reservados</p>
+    </footer>
+    <script src="../js/ejecutar.js"></script> 
+</body> 
+</html> 
