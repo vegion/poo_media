@@ -1,0 +1,4 @@
+c:\users\lis\documents\visual studio 2010\Projects\tarea1\tarea1\bin\Debug\tarea1.exe
+c:\users\lis\documents\visual studio 2010\Projects\tarea1\tarea1\bin\Debug\tarea1.pdb
+c:\users\lis\documents\visual studio 2010\Projects\tarea1\tarea1\obj\x86\Debug\tarea1.exe
+c:\users\lis\documents\visual studio 2010\Projects\tarea1\tarea1\obj\x86\Debug\tarea1.pdb
